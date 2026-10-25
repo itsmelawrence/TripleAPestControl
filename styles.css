@@ -199,8 +199,7 @@ h1, h2, h3 { font-family: var(--display); line-height: .95; }
 .start-details, .sanitary-photo, .contact-form { --from-x: 36px; --from-y: 0; }
 .service-row { --from-x: -24px; --from-y: 0; }
 .about-photo { --from-scale: .94; --from-y: 0; }
-.motion-ready .plan-visual.reveal { opacity: 1; transform: none; clip-path: inset(0 100% 0 0); transition: clip-path 1s cubic-bezier(.22,.75,.1,1); transition-delay: var(--delay,0ms); }
-.motion-ready .plan-visual.reveal.is-visible { clip-path: inset(0 0 0 0); }
+.plan-visual { --from-x: 36px; --from-y: 0; }
 @keyframes hero-image-in { from { opacity: .4; transform: scale(1.08); } to { opacity: 1; transform: scale(1); } }
 @keyframes hero-copy-in { from { opacity: 0; transform: translateY(35px); } to { opacity: 1; transform: translateY(0); } }
 @keyframes scan-in { from { opacity: 0; transform: scale(.76); } to { opacity: 1; transform: scale(1); } }
