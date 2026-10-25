@@ -4,6 +4,8 @@ Static, responsive frontend concept built from the supplied website screenshots 
 
 The visual direction draws on field inspection: the supplied technician photograph, a target mark, an expandable service index, and a property-plan diagram. Sections reveal as they enter the viewport; reduced-motion settings disable those effects.
 
+The About Us photo is the supplied outdoor treatment image. The Sanitary Requirement photo is an edited, landscape expansion of the supplied indoor image; its overlaid logo and contact text were removed. The expanded surroundings are generated and should be reviewed by Triple A before publication.
+
 The inspection form prepares an email in the visitor's email app. It does not send or store submissions on its own. Direct phone, email, Google Maps, and official-site links are functional.
 
 Content and contact details were checked against Triple A's official website on 25 October 2026. Confirm branding, copy, service claims, and destination URLs with the business before publishing.
